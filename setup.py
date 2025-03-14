@@ -10,7 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Pavel Shubin',
     author_email='pasubi@taltech.ee',
-    url='https://github.com/yourusername/my_coord_converter',
+    url='https://github.com/psssart/wgs84_lest97_converter',
     packages=find_packages(),
     install_requires=[
         'pyproj==3.7.1'
