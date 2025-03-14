@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='wgs84_lest97_converter',
+    name='wgs84_est_converter',
     version='0.1.0',
     description='Coordinate converter between WGS84 and L-Est97 using pyproj',
     long_description=open('README.md', encoding='utf-8').read(),
